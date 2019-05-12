@@ -118,7 +118,7 @@ function buildAndShowHomeHTML (categories) {
       // Hint: you need to surround the chosen category short name with something before inserting
       // it into the home html snippet.
       //
-      var homeHtmlToInsertIntoMainPage = ""; // This was ...
+      var homeHtmlToInsertIntoMainPage = "vishal"; // TBD This was ...
 
 
       // TODO: STEP 4: Insert the the produced HTML in STEP 3 into the main page
